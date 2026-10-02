@@ -1,5 +1,5 @@
 /*
-    Criar um sistema de  login primeiro, como validade de faceid true, password for correta igual foi cadastrada e nome for igual cadastrado.
+    Criar um sistema de  login primeiro, como validação de faceid true, password for correta igual foi cadastrada e nome for igual cadastrado.
 
 
     segundo passo, criar tipo os nome dos amigos e quando ele clicar para conversar com algum amigo retorno "On the chat" ai ele passa uma msg como "HELLO MY FRIEND".
@@ -7,7 +7,6 @@
 */
 
 
-let Userlog = true;
 const username = "wygledson";
 let UserFriends = ["Bruno", "Wende", "Fabricio", "Felipe"];
 let faceid = false;
